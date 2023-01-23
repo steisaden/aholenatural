@@ -1,0 +1,9 @@
+Steps to building the front end:
+
+1. Clear out the index file
+2. rafce is the react snippet to create a function component
+3. change index to home
+4. wrap div in empty bracket, <> </>
+5. The hero banner will go outside the first parent div
+6. Add inside the top parent div an h2 element to describe the banner element
+7.
